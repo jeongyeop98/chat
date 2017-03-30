@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "node.js 와 socket.io 를 활용해 채팅 환경 만들어 보기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeongyeop98/chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeongyeop98/chat/issues"
+  },
+  "homepage": "https://github.com/jeongyeop98/chat#readme",
+  "dependencies": {
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  }
+}
